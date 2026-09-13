@@ -28,4 +28,4 @@ Untracked .DS_Store:
 The most suspicious changes are the store → stored rename (looks accidental) and the === → == downgrade.
 
 SUmmary:
-Claude found all the changes and the change I forgote about changing === to == with wasn't done intentionally.
+Claude found all the changes and the change I forgote about changing === to == with wasn't done intentionally. That's the everyday win - instead of parsing a diff yourself, you get a plain-language summary and a second pair of eyes on stray changes.
